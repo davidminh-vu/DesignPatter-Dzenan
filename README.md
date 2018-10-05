@@ -1,3 +1,5 @@
+ALL DOCUMENTS ARE CREDITED TO @DZENAN SULJIC 2018
+
 Design Patterns (Entwurfsmuster)
 ================================
 
